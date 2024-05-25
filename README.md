@@ -48,10 +48,11 @@
 **Шаг 3: Автокликер**
 
 1. Скачиваем автокликер:
-[Автокликер](https://nztcdn.com/files/8369903c-d0f8-4fb3-9484-621f5300d77a.webp)
+(https://nztcdn.com/files/8369903c-d0f8-4fb3-9484-621f5300d77a.webp)
+
     * [Mega](https://mega.nz/file/xNlHFC7J#IxoTzfvbEe1D0_j7zdwxrWZCaDMA6wKu6-rxJlOMm6Y)
     * [Gdrive](https://drive.google.com/file/d/1xosw4S9rMgkoB_42RGowFDmUX7aGqVn0/view?usp=sharing)
-2. Распаковываем архив в удобное место.
+3. Распаковываем архив в удобное место.
 
 
 **Шаг 4: Получаем токен**
