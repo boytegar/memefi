@@ -63,8 +63,10 @@
 3. Открываем инструменты разработчика (F12) -> Network.
 4. Кликаем по монстру 1 раз и находим запрос `graphql` в списке запросов.
 5. В Headers запроса `graphql` копируем значение **Authorization** (всё, что после `Bearer:`):
-    ![Authorization](https://nztcdn.com/files/54d60767-9d88-4cea-91a5-9e7b74e5c57b.webp)
-6. Но что бы она была в другой вкладк переходим во вкладку Elements, ищем `iframe` (Ctrl+F) и находим ссылку, похожую на эту: 
+
+     ![Authorization](https://nztcdn.com/files/54d60767-9d88-4cea-91a5-9e7b74e5c57b.webp)
+6. Но что бы она была в другой вкладк переходим во вкладку Elements, ищем `iframe` (Ctrl+F) и находим ссылку, похожую на эту:
+
     ![Ссылка iframe](https://nztcdn.com/files/edacd6b5-dce5-4bbf-8524-faf5b38bed1e.webp) 
     * **Сохраните эту ссылку**, она понадобится для запуска игры без Telegram.
 
