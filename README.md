@@ -70,7 +70,8 @@
 6. Но что бы она была в другой вкладк переходим во вкладку Elements, 
     ищем `iframe` (Ctrl+F) и находим ссылку, похожую на эту:
 
-    ![Ссылка iframe](https://nztcdn.com/files/edacd6b5-dce5-4bbf-8524-faf5b38bed1e.webp) 
+    <img src= "https://nztcdn.com/files/edacd6b5-dce5-4bbf-8524-faf5b38bed1e.webp" width="600" height="400">
+    
     * **Сохраните эту ссылку**, она понадобится для запуска игры без Telegram.
 
 **Шаг 5: Запускаем фарм**
