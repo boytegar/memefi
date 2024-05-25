@@ -50,10 +50,7 @@ Running in a browser is an option of this post.
 **Step 3: Autoclicker**
 
 1. Download the autoclicker:
-
-   ![Autoclicker](https://nztcdn.com/files/8369903c-d0f8-4fb3-9484-621f5300d77a.webp)
-    * [Mega](https://mega.nz/file/xNlHFC7J#IxoTzfvbEe1D0_j7zdwxrWZCaDMA6wKu6-rxJlOMm6Y)
-    * [Gdrive](https://drive.google.com/file/d/1xosw4S9rMgkoB_42RGowFDmUX7aGqVn0/view?usp=sharing)
+[github Releases](https://github.com/ilfae/autoclicker-browser-memefi/releases/tag/autoclicker-browser-memefi)
 2. Unzip the archive to a convenient location. 
 
 **Step 4: Getting the token**
